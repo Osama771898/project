@@ -1,0 +1,21 @@
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\bin\Debug\code done.exe.config
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\bin\Debug\code done.exe
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\bin\Debug\code done.pdb
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code done.csprojResolveAssemblyReference.cache
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code_done.Frm_Login.resources
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code_done.Properties.Resources.resources
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code done.csproj.GenerateResource.Cache
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code done.exe
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code done.pdb
+c:\users\سليمان السامعي\documents\visual studio 2015\Projects\code done\code done\obj\Debug\code_done.MainForm.resources
+D:\‏‏code done - نسخة (4)\code done\bin\Debug\code done.exe.config
+D:\‏‏code done - نسخة (4)\code done\bin\Debug\code done.exe
+D:\‏‏code done - نسخة (4)\code done\bin\Debug\code done.pdb
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code done.csprojAssemblyReference.cache
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code_done.Frm_Login.resources
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code_done.MainForm.resources
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code_done.Properties.Resources.resources
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code done.csproj.GenerateResource.cache
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code done.csproj.CoreCompileInputs.cache
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code done.exe
+D:\‏‏code done - نسخة (4)\code done\obj\Debug\code done.pdb
